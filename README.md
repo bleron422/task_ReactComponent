@@ -1,5 +1,3 @@
-## How to run the Demo
-cd task/bleron
 
 ## Run the npm command 
 npm install
